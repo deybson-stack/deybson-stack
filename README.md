@@ -1,4 +1,4 @@
-## Fala pessoal! Sou o Deybson-stack 😁
+## Fala pessoal! Sou o Deybson-stack 
 
  <div>
    <a href="https://github.com/deybson-stack">
